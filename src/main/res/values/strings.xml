@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">To Read</string>
+    <string name="Color">Theme color</string>
+    <string name="Color_id">Choose Color</string>
+    <string name="Color_Red">Red</string>
+    <string name="Color_Blue">Blue</string>
+    <string name="Color_Green">Green</string>
+    <string name="Default">Default</string>
+    <string name="Share">Share</string>
+
+    <string-array name="BookName">
+        <item>Invisible Monsters</item>
+        <item>Veronica decides to die</item>
+
+    </string-array>
+</resources>
